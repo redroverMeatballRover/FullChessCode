@@ -1,0 +1,4 @@
+pla7 a5 
+pdb2 b4
+plb4 b5
+pda5 a4
